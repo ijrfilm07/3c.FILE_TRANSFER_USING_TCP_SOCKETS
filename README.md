@@ -39,8 +39,9 @@ print("Server: Flie Recived")
 client_socket.close()
 ```
 ## OUPUT
-<img width="1043" height="408" alt="image" src="https://github.com/user-attachments/assets/ef40348f-9f5f-419c-870a-666fa04658ac" />
-<img width="1001" height="545" alt="image" src="https://github.com/user-attachments/assets/d24db28f-ade3-4a43-96a0-d64846cb7f6b" />
+<img width="1111" height="332" alt="image" src="https://github.com/user-attachments/assets/634b0c97-c97f-4995-a51a-f3095ff49fa6" />
+<img width="1111" height="332" alt="image" src="https://github.com/user-attachments/assets/966b7262-202e-41ec-9318-35f2e4a71d3c" />
+
 
 
 ## RESULT
