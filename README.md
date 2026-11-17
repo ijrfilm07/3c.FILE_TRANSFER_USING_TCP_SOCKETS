@@ -39,7 +39,7 @@ print("Server: Flie Recived")
 client_socket.close()
 ```
 ## OUPUT
-<img width="1111" height="332" alt="image" src="https://github.com/user-attachments/assets/634b0c97-c97f-4995-a51a-f3095ff49fa6" />
+<img width="1917" height="1026" alt="Screenshot 2026-11-17 141106" src="https://github.com/user-attachments/assets/f8cee613-54c8-4757-aac1-2e1435cebbb4" />
 <img width="1111" height="332" alt="image" src="https://github.com/user-attachments/assets/966b7262-202e-41ec-9318-35f2e4a71d3c" />
 
 
